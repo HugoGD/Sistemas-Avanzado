@@ -13,7 +13,7 @@ Este repositorio contiene el material y practicas realizadas por Hugo Gallardo.
 
 El contenido está bajo licencia [Creative Commons BY-NC-SA 3.0 ES](LICENSE.md).
 
-<u> ## Contenido del curso </u>
+## Contenido del curso
 --------------------------------------------------------------------------------------------------
 ## <strong>SPRINT 1. Infectar máquinas desde su instalación</strong>
 
