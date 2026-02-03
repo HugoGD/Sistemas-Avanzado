@@ -35,7 +35,7 @@ El contenido está bajo licencia [Creative Commons BY-NC-SA 3.0 ES](LICENSE.md).
   
 <br>
 
-  <summary><strong>UNIDAD 3. VPN </strong></summary>
+## <strong>SPRINT 3. VPN </strong>
   <br>
    
 [Sprint 3. Windows](unidad3/unidad3.md)
