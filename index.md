@@ -14,7 +14,7 @@ Este repositorio contiene el material y practicas realizadas por Hugo Gallardo.
 El contenido está bajo licencia [Creative Commons BY-NC-SA 3.0 ES](LICENSE.md).
 
 ## Contenido del curso
---------------------------------------------------------------------------------------------------
+――⎯⎯⎯⎯⎯――――――――――――――――――――⎯⎯⎯⎯⎯――――――――――――――――――――⎯⎯⎯⎯⎯――――――――――――――――――――⎯⎯⎯⎯⎯―――――――――――――――――――
 ## <strong>SPRINT 1. Infectar máquinas desde su instalación</strong>
 
   <br>
@@ -26,16 +26,14 @@ El contenido está bajo licencia [Creative Commons BY-NC-SA 3.0 ES](LICENSE.md).
 
 
 <br>
--------------------------------------------------------------------------------------------------- 
-<br>
+――⎯⎯⎯⎯⎯――――――――――――――――――――⎯⎯⎯⎯⎯――――――――――――――――――――⎯⎯⎯⎯⎯――――――――――――――――――――⎯⎯⎯⎯⎯―――――――――――――――――――
 ## <strong>SPRINT 2. Instalación Kernel </strong>
   <br>
   
 [Sprint 2. Kernel Linux](unidad2/unidad1.md)
   
 <br>
---------------------------------------------------------------------------------------------------
-<br>
+――⎯⎯⎯⎯⎯――――――――――――――――――――⎯⎯⎯⎯⎯――――――――――――――――――――⎯⎯⎯⎯⎯――――――――――――――――――――⎯⎯⎯⎯⎯―――――――――――――――――――
 ## <strong>SPRINT 3. VPN </strong>
   <br>
    
